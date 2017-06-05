@@ -1,3 +1,15 @@
 page-home {
+    ion-content {
+        background-size: cover !important;
+        background-position: 50% 50% !important;
+        background-repeat: no-repeat !important;
+    }
 
+    .scroll-content {
+        background: transparentize(black, .85);
+    }
+
+    * {
+        color: white;
+    }
 }
